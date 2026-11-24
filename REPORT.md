@@ -47,4 +47,6 @@
 ## Deliverable
 
 - Repo: https://github.com/Chapo1245/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046-chapo124574
+- Commit: c4d758df9425a669c1904c8fb1cc9077dbb36ef3 (first push; REPORT.md updated
+  with the SHA in a follow-up commit — see repo HEAD)
 - `main.py` (Python 3.13, stdlib only) writes the chosen rant to `/output/entry.txt`.
